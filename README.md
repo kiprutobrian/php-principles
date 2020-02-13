@@ -10,3 +10,6 @@ An abstract class provides a template - or base - for any subclasses. I have wor
 
 Handshakes and Interfaces.
 Think of an interface as a class with no behavior. Instead, it describes the terms for a particular contract. Any class that signs this contract must adhere to those terms.
+
+Encapsulation.
+Encapsulation allows a class to provide signals to the outside world that certain internals are private and shouldn't be accessed. So at it's core, encapsulation is about communication.
