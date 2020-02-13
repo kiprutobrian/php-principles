@@ -16,3 +16,10 @@ Encapsulation allows a class to provide signals to the outside world that certai
 
 Object Composition and Abstractions.
 On to object composition. To break it down into the simplest of terms, composition is when one object holds a pointer to another object. This allows you to construct complex functionality by combining various types.
+
+Value Objects and Mutability.
+A value object is an object whose equality is determined by its data (or value) rather than any particular identity. Eg, imagine three 200 KSH bills resting on a table. Does one bill have a unique identity compared to the other two? From our perspective, no. 200 KSHs is 200 KSHs regardless of which bill you choose. However, compare this with two human beings who have the same first and last name. Are they identical, or does each person have a unique identity? Of course in this case, the latter is the correct answer.
+
+
+
+Learning from laracast.
