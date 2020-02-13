@@ -13,3 +13,6 @@ Think of an interface as a class with no behavior. Instead, it describes the ter
 
 Encapsulation.
 Encapsulation allows a class to provide signals to the outside world that certain internals are private and shouldn't be accessed. So at it's core, encapsulation is about communication.
+
+Object Composition and Abstractions.
+On to object composition. To break it down into the simplest of terms, composition is when one object holds a pointer to another object. This allows you to construct complex functionality by combining various types.
